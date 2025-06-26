@@ -82,6 +82,7 @@ redirect_from:
   display: flex !important;
   gap: 0.6rem !important;
   flex-wrap: wrap !important;
+  align-items: flex-end !important;
 }
 
 .blog-link {
@@ -170,7 +171,7 @@ redirect_from:
 .publication-badge {
   position: absolute !important;
   top: 12px !important;
-  left: 12px !important;
+  left: 6px !important;
   background: linear-gradient(135deg, #FE667B 0%, #ff8599 100%) !important;
   color: white !important;
   padding: 0.4em 0.8em !important;

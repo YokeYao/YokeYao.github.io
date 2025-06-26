@@ -33,7 +33,7 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
     <h3><i class="fas fa-microscope icon-accent"></i> AI Researcher</h3>
     <ul>
       <li>Research focus on <span class="accent-text">LLMs and NLP</span></li>
-      <li>Multiple internships at <span class="primary-gradient-text">top institutions</span></li>
+      <li>Internships at <span class="primary-gradient-text">top institutions</span></li>
       <li>Publications at <span class="accent-text">AAAI</span> <span class="accent-text">ACL</span></li>
     </ul>
   </div>
@@ -70,7 +70,7 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 
 - **Jinxiang Xie**, Yilin Li, Xunjian Yin, Xiaojun Wan
 - In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)
-- <a href="https://arxiv.org/abs/2412.12832" class="btn-accent">📄 Arxiv</a> <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="btn-accent">💻 Code</a>
+- <a href="https://arxiv.org/abs/2412.12832" class="btn-accent">Arxiv</a> <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="btn-accent">Code</a>
 
 </div>
 </div>
@@ -93,7 +93,7 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 
 <span class="primary-gradient-text">My vision of the future: from Bitcoin to an AGI-driven decentralized society</span>
 
-<a href="https://mp.weixin.qq.com/s/luu2qEzPnYAuryJ9mYoJ6Q" class="btn-accent">🇨🇳 中文版</a> <a href="https://jxtse.medium.com/beyond-the-future-of-ai-the-dreams-and-deceptions-of-cryptocurrency-5da8d4bbf69e" class="btn-accent">🇺🇸 English</a>
+<a href="https://mp.weixin.qq.com/s/luu2qEzPnYAuryJ9mYoJ6Q" class="btn-accent">中文版</a> <a href="https://jxtse.medium.com/beyond-the-future-of-ai-the-dreams-and-deceptions-of-cryptocurrency-5da8d4bbf69e" class="btn-accent">English</a>
 
 </div>
 </div>
@@ -105,7 +105,7 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 
 <span class="primary-gradient-text">LexiMind</span> is an AI-powered vocabulary builder that integrates LLM-based translation with smart word retention. It's designed to help users efficiently learn new words by saving unfamiliar words to a personal word bank and reviewing them with spaced repetition.
 
-<a href="https://www.xiaohongshu.com/explore/67a48f0d000000001800721c?xsec_token=ABXUfGRE_zHTnXbEyaNmuelNX3M4527lw3zirVu2KJUKA=&xsec_source=pc_user" class="btn-accent">📖 Introduction</a> <a href="https://github.com/jxtse/LexiMind" class="btn-accent">💻 Project</a>
+<a href="https://www.xiaohongshu.com/explore/67a48f0d000000001800721c?xsec_token=ABXUfGRE_zHTnXbEyaNmuelNX3M4527lw3zirVu2KJUKA=&xsec_source=pc_user" class="btn-accent">Introduction</a> <a href="https://github.com/jxtse/LexiMind" class="btn-accent">Project</a>
 
 </div>
 </div>
@@ -117,7 +117,7 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 
 I share my learning path and some insights on <span class="accent-text">natural language processing</span> as a mathematics undergraduate student.
 
-<a href="https://www.xiaohongshu.com/explore/668a35c8000000001e010600?xsec_token=ABl3IEpctnnXxbjsYlUul3nZBcA622VEEpS6zNOEPrxVI=&xsec_source=pc_user" class="btn-accent">🇨🇳 中文版</a> <a href="https://www.linkedin.com/posts/jinxiang-xie_naturallanguageprocessing-nlp-learningpath-activity-7215638435393359872-dPr8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEmWk88Bhyvl-E41lfo1McNlpiC4YSsk7WQ" class="btn-accent">🇺🇸 English</a>
+<a href="https://www.xiaohongshu.com/explore/668a35c8000000001e010600?xsec_token=ABl3IEpctnnXxbjsYlUul3nZBcA622VEEpS6zNOEPrxVI=&xsec_source=pc_user" class="btn-accent">中文版</a> <a href="https://www.linkedin.com/posts/jinxiang-xie_naturallanguageprocessing-nlp-learningpath-activity-7215638435393359872-dPr8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEmWk88Bhyvl-E41lfo1McNlpiC4YSsk7WQ" class="btn-accent">English</a>
 
 </div>
 </div>
@@ -129,7 +129,7 @@ I share my learning path and some insights on <span class="accent-text">natural 
 
 My notes from a presentation on <span class="primary-gradient-text">LLMs</span> at the Gaoling School of Artificial Intelligence, Renmin University of China.
 
-<a href="https://mp.weixin.qq.com/s?__biz=Mzg5NzczMzM3MA==&mid=2247483926&idx=1&sn=c6dcaf93ec8d7ecaa760df4682589b21" class="btn-accent">🇨🇳 中文版</a>
+<a href="https://mp.weixin.qq.com/s?__biz=Mzg5NzczMzM3MA==&mid=2247483926&idx=1&sn=c6dcaf93ec8d7ecaa760df4682589b21" class="btn-accent">中文版</a>
 
 </div>
 </div>
@@ -141,7 +141,7 @@ My notes from a presentation on <span class="primary-gradient-text">LLMs</span> 
 
 Introduce a number of methods for optimizing the output of <span class="accent-text">large language models</span> and reducing the probability of irrelevant or incorrect responses.
 
-<a href="https://sspai.com/post/82322" class="btn-accent">🇨🇳 中文版</a>
+<a href="https://sspai.com/post/82322" class="btn-accent">中文版</a>
 
 </div>
 </div>

@@ -32,7 +32,7 @@ My research focuses on leveraging Large Language Models to address complex syste
     <ul>
       <li>Research focus on LLMs and NLP</li>
       <li>Multiple internships at top institutions</li>
-      <li>Publication at AAAI, ACL</li>
+      <li>Publications at AAAI, ACL</li>
     </ul>
   </div>
   
@@ -41,7 +41,7 @@ My research focuses on leveraging Large Language Models to address complex syste
     <ul>
       <li>Technical blogs with 500K+ views</li>
       <li>Active on <a href="https://www.xiaohongshu.com/user/profile/60c47bae000000000100b07e">Xiaohongshu</a></li>
-      <li><a href="https://mp.weixin.qq.com/s/5wn3NvB2FBpJD1jK0L4qbQ">Blogs</a> about Tech & Humanities</li>
+      <li><a href="https://mp.weixin.qq.com/s/5wn3NvB2FBpJD1jK0L4qbQ">Articles</a> about Tech & Humanities</li>
     </ul>
   </div>
   
@@ -50,14 +50,13 @@ My research focuses on leveraging Large Language Models to address complex syste
     <ul>
       <li>Visited 9 countries worldwide</li>
       <li>Traveled to 32 provinces in China</li>
-      <li>Rich experience in social work & activities</li>
+      <li>Rich experience in social work</li>
     </ul>
   </div>
 </div>
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). See you in Philadelphia!
-- *2024.09*: &nbsp;I was admitted to the 25 Fall graduate program at Kuang Yaming Honors School, Nanjing University.
 - *2024.08*: &nbsp;I have joined Microsoft as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
 
 # 📝 Publications 
@@ -68,7 +67,7 @@ My research focuses on leveraging Large Language Models to address complex syste
 **DSGram: Dynamic Weighting Sub-Metrics for Grammartical Error Correction in the Era of Large Language Models**
 
 - **Jinxiang Xie**, Yilin Li, Xunjian Yin, Xiaojun Wan
-- In The 39th Annual AAAI Conference on Artificial Intelligence
+- In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)
 - [[Arxiv]](https://arxiv.org/abs/2412.12832) [[Code]](https://github.com/jxtse/GEC-Metrics-DSGram)
 
 <!-- [**Project**](https://github.com/jxtse/GEC_Metrics_LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | <a href="">Link to paper</a> -->
@@ -86,7 +85,7 @@ My research focuses on leveraging Large Language Models to address complex syste
 - *2023.04*: &nbsp;First Prize of 2023 Beijing Jiaotong University Mathematical Modeling Competition -->
 
 # 📖 Educations
-- *2025.09 - 2028.06*: &nbsp;(Expected) Master of Science at Kuang Yaming Honors School, Nanjing University.
+- *2025.09 - Present*: &nbsp;Master of Science at Kuang Yaming Honors School, Nanjing University.
 - *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, Beijing Jiaotong University.
 
 <!-- # 💬 Invited Talks
@@ -94,7 +93,7 @@ My research focuses on leveraging Large Language Models to address complex syste
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.08 - Present*: &nbsp;Research Intern, [Data, Knowledge and Intelligence (DKI) Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), **Microsoft**.
+- *2024.08 - 2025.08*: &nbsp;Research Intern, [Data, Knowledge and Intelligence (DKI) Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), **Microsoft**.
 - *2023.11 - 2024.08*: &nbsp;Research Intern, [Wangxuan Institute of Computer Technology](https://sai.pku.edu.cn/znxyenglish/), **Peking University**.
 - *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, [School of Computer](https://www.comp.nus.edu.sg/), **National University of Singapore**.
 
@@ -119,7 +118,7 @@ My vision of the future: from Bitcoin to an AGI-driven decentralized society
 
 LexiMind is an AI-powered vocabulary builder that integrates LLM-based translation with smart word retention. It's designed to help users efficiently learn new words by saving unfamiliar words to a personal word bank and reviewing them with spaced repetition.
 
-[[Chinese Introduction]](https://www.xiaohongshu.com/explore/67a48f0d000000001800721c?xsec_token=ABXUfGRE_zHTnXbEyaNmuelNX3M4527lw3zirVu2KJUKA=&xsec_source=pc_user) [[Project Link]](https://github.com/jxtse/LexiMind)
+[[Introduction]](https://www.xiaohongshu.com/explore/67a48f0d000000001800721c?xsec_token=ABXUfGRE_zHTnXbEyaNmuelNX3M4527lw3zirVu2KJUKA=&xsec_source=pc_user) [[Project Link]](https://github.com/jxtse/LexiMind)
 
 </div>
 </div>

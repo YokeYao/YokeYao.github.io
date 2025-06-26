@@ -46,9 +46,9 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    border-bottom: none; /* 移除原边框，使用新的强调色系统 */
+    padding: 0; /* 重置padding，使用新的强调色系统 */
+    margin: 0; /* 重置margin，使用新的强调色系统 */
 
     .paper-box-image{
         justify-content: center;
@@ -57,8 +57,15 @@
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            box-shadow: 0 4px 15px rgba(1, 47, 99, 0.12); /* 使用强调色阴影 */
             object-fit: cover;
+            border-radius: 8px;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        
+        img:hover {
+            transform: scale(1.02);
+            box-shadow: 0 8px 25px rgba(1, 47, 99, 0.18);
         }
     }
     
@@ -81,10 +88,7 @@
             max-width: 60%;
             order: 2;
         }
-
     }
-
-
 }
 
 $scroll_offset : 2em;
@@ -104,6 +108,10 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
+    background: linear-gradient(135deg, #FE667B 0%, #ff8599 100%); /* 使用强调色渐变 */
     font-size: .8em;
+    border-radius: 20px;
+    font-weight: 600;
+    box-shadow: 0 4px 15px rgba(254, 102, 123, 0.3);
+    border: 2px solid rgba(255, 255, 255, 0.2);
 }

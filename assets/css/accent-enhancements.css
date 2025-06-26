@@ -1,0 +1,329 @@
+/* ==========================================================================
+   强调色增强样式 - Enhanced Accent Color Styles
+   ========================================================================== */
+
+/* 为主要元素添加强调色装饰 */
+.main-content {
+  position: relative;
+}
+
+/* 增强的页面装饰条 */
+.accent-border-top {
+  position: relative;
+}
+
+.accent-border-top::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, #012F63 0%, #FE667B 50%, #1a4f8a 100%);
+  z-index: 10;
+}
+
+/* 强调色按钮样式 */
+.btn-accent {
+  background: linear-gradient(135deg, #FE667B 0%, #ff8599 100%);
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 25px;
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 15px rgba(254, 102, 123, 0.3);
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-accent::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+  transition: left 0.5s;
+}
+
+.btn-accent:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(254, 102, 123, 0.4);
+  color: white;
+}
+
+.btn-accent:hover::before {
+  left: 100%;
+}
+
+/* 强调色悬浮卡片 */
+.floating-card {
+  background: linear-gradient(145deg, #ffffff, #f8f9fa);
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(1, 47, 99, 0.08);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 1px solid rgba(1, 47, 99, 0.06);
+  position: relative;
+  overflow: hidden;
+}
+
+.floating-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #FE667B 0%, #ff8599 50%, #a29bfe 100%);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.floating-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 35px rgba(1, 47, 99, 0.15);
+  border-color: rgba(254, 102, 123, 0.2);
+}
+
+.floating-card:hover::before {
+  opacity: 1;
+}
+
+/* 强调色文字效果 */
+.accent-text {
+  background: linear-gradient(135deg, #FE667B 0%, #ff8599 50%, #a29bfe 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 600;
+}
+
+.primary-gradient-text {
+  background: linear-gradient(135deg, #012F63 0%, #1a4f8a 50%, #FE667B 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 600;
+}
+
+/* 强调色图标装饰 */
+.icon-accent {
+  color: #FE667B;
+  transition: all 0.3s ease;
+}
+
+.icon-accent:hover {
+  color: #ff8599;
+  transform: scale(1.2);
+  filter: drop-shadow(0 0 8px rgba(254, 102, 123, 0.4));
+}
+
+/* 强调色分割线 */
+.divider-accent {
+  height: 2px;
+  background: linear-gradient(90deg, transparent 0%, #FE667B 50%, transparent 100%);
+  margin: 2rem 0;
+  border: none;
+}
+
+/* 强调色引用块 */
+.quote-accent {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-left: 4px solid #FE667B;
+  padding: 1.5rem 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(1, 47, 99, 0.08);
+  position: relative;
+  margin: 2rem 0;
+}
+
+.quote-accent::before {
+  content: '"';
+  font-size: 4rem;
+  color: #FE667B;
+  opacity: 0.2;
+  position: absolute;
+  top: -10px;
+  left: 15px;
+  font-family: serif;
+}
+
+/* 强调色进度条 */
+.progress-accent {
+  height: 8px;
+  background: #e9ecef;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.progress-accent-bar {
+  height: 100%;
+  background: linear-gradient(90deg, #FE667B 0%, #ff8599 100%);
+  border-radius: 10px;
+  transition: width 1s ease;
+  position: relative;
+}
+
+.progress-accent-bar::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+  animation: shimmer 2s infinite;
+}
+
+@keyframes shimmer {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+/* 强调色标签 */
+.tag-accent {
+  background: linear-gradient(135deg, #FE667B 0%, #ff8599 100%);
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  display: inline-block;
+  margin: 0.25rem;
+  box-shadow: 0 2px 8px rgba(254, 102, 123, 0.3);
+  transition: all 0.3s ease;
+}
+
+.tag-accent:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(254, 102, 123, 0.4);
+}
+
+/* 强调色链接装饰 */
+.link-accent {
+  color: #012F63;
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.link-accent::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: linear-gradient(90deg, #FE667B 0%, #ff8599 100%);
+  transition: width 0.3s ease;
+}
+
+.link-accent:hover {
+  color: #FE667B;
+}
+
+.link-accent:hover::after {
+  width: 100%;
+}
+
+/* 强调色悬浮动画 */
+.hover-float {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.hover-float:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(1, 47, 99, 0.12);
+}
+
+/* 强调色脉冲动画 */
+.pulse-accent {
+  animation: pulse-accent 2s infinite;
+}
+
+@keyframes pulse-accent {
+  0% {
+    box-shadow: 0 0 0 0 rgba(254, 102, 123, 0.7);
+  }
+  70% {
+    box-shadow: 0 0 0 10px rgba(254, 102, 123, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(254, 102, 123, 0);
+  }
+}
+
+/* 强调色渐变背景动画 */
+.bg-gradient-animate {
+  background: linear-gradient(-45deg, #012F63, #1a4f8a, #FE667B, #ff8599);
+  background-size: 400% 400%;
+  animation: gradient-shift 15s ease infinite;
+}
+
+@keyframes gradient-shift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* 移动端优化 */
+@media (max-width: 768px) {
+  .highlight-blocks {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  
+  .floating-card {
+    margin: 1rem 0;
+  }
+  
+  .btn-accent {
+    padding: 10px 20px;
+    font-size: 0.9rem;
+  }
+}
+
+/* 深色模式支持 */
+@media (prefers-color-scheme: dark) {
+  .floating-card {
+    background: linear-gradient(145deg, #1a1a1a, #2d2d2d);
+    border-color: rgba(254, 102, 123, 0.2);
+  }
+  
+  .quote-accent {
+    background: linear-gradient(135deg, #2d2d2d 0%, #1a1a1a 100%);
+  }
+}
+
+/* 滚动触发动画 */
+.fade-in-up {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all 0.6s ease;
+}
+
+.fade-in-up.animate {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* 强调色加载动画 */
+.loading-accent {
+  width: 40px;
+  height: 40px;
+  border: 3px solid #e9ecef;
+  border-top: 3px solid #FE667B;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+} 

@@ -57,8 +57,6 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
   </div>
 </div>
 
-<hr class="divider-accent">
-
 # <i class="fas fa-fire icon-accent"></i> News
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). <span class="accent-text">See you in Philadelphia!</span>
 - *2024.08*: &nbsp;I have joined <span class="primary-gradient-text">Microsoft</span> as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
@@ -77,8 +75,6 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 </div>
 </div>
 
-<hr class="divider-accent">
-
 # <i class="fas fa-graduation-cap icon-accent"></i> Educations
 - *2025.09 - Present*: &nbsp;Master of Science at <span class="primary-gradient-text">Kuang Yaming Honors School, Nanjing University</span>.
 - *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, <span class="primary-gradient-text">Beijing Jiaotong University</span>.
@@ -87,8 +83,6 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 - *2024.08 - 2025.08*: &nbsp;Research Intern, <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/" class="link-accent">Data, Knowledge and Intelligence (DKI) Group</a>, **Microsoft**.
 - *2023.11 - 2024.08*: &nbsp;Research Intern, <a href="https://sai.pku.edu.cn/znxyenglish/" class="link-accent">Wangxuan Institute of Computer Technology</a>, **Peking University**.
 - *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, <a href="https://www.comp.nus.edu.sg/" class="link-accent">School of Computer</a>, **National University of Singapore**.
-
-<hr class="divider-accent">
 
 # <i class="fas fa-blog icon-accent"></i> Blogs
 

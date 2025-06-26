@@ -47,13 +47,6 @@ document.addEventListener('DOMContentLoaded', function() {
     observer.observe(el);
   });
   
-  // 为图标添加强调色类
-  document.querySelectorAll('.fas, .fab, .far').forEach(icon => {
-    if (!icon.closest('nav')) { // 排除导航中的图标
-      icon.classList.add('icon-accent');
-    }
-  });
-  
   // 为重要链接添加强调色效果
   document.querySelectorAll('a[href*="pdf"], a[href*="github"], a[href*="arxiv"]').forEach(link => {
     link.classList.add('link-accent');

@@ -110,16 +110,26 @@
   font-weight: 600;
 }
 
-/* 强调色图标装饰 */
-.icon-accent {
-  color: #FE667B;
+/* 图标样式 - 使用主色而不是强调色 */
+.fas, .fab, .far {
+  color: #012F63; /* 主色 */
   transition: all 0.3s ease;
 }
 
-.icon-accent:hover {
-  color: #ff8599;
-  transform: scale(1.2);
-  filter: drop-shadow(0 0 8px rgba(254, 102, 123, 0.4));
+.fas:hover, .fab:hover, .far:hover {
+  color: #1a4f8a; /* 主色的浅色变体 */
+  transform: scale(1.05);
+}
+
+/* Sidebar图标保持主色 */
+.sidebar .fas, .sidebar .fab, .sidebar .far,
+.author__urls .fas, .author__urls .fab, .author__urls .far {
+  color: #012F63 !important;
+}
+
+.sidebar .fas:hover, .sidebar .fab:hover, .sidebar .far:hover,
+.author__urls .fas:hover, .author__urls .fab:hover, .author__urls .far:hover {
+  color: #FE667B !important; /* 悬停时使用强调色 */
 }
 
 /* 强调色分割线 */

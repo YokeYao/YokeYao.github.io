@@ -19,27 +19,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Jinxiang Xie</span> (pronounced "JIN-shee-ahng SHEE-eh"). I am an incoming graduate student at <i class="fas fa-university icon-accent"></i> **Nanjing University**. I earned my Bachelor's degree in Information and Computing Science from <i class="fas fa-university icon-accent"></i> **Beijing Jiaotong University**. Currently, I am a research intern at <i class="fab fa-microsoft icon-accent"></i> **Microsoft**, where I have the privilege of working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/" class="link-accent">Justin Ding</a>.
-Prior to this, I gained valuable research experience at <i class="fas fa-university icon-accent"></i> **Peking University** under the guidance of Prof. <a href="https://wanxiaojun.github.io/" class="link-accent">Xiaojun Wan</a>.
+My name is <span class="accent-text">Jinxiang Xie</span> (pronounced "JIN-shee-ahng SHEE-eh"). I am an incoming graduate student at <i class="fas fa-university"></i> **Nanjing University**. I earned my Bachelor's degree in Information and Computing Science from <i class="fas fa-university"></i> **Beijing Jiaotong University**. Currently, I am a research intern at <i class="fab fa-microsoft"></i> **Microsoft**, where I have the privilege of working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/" class="link-accent">Justin Ding</a>.
+Prior to this, I gained valuable research experience at <i class="fas fa-university"></i> **Peking University** under the guidance of Prof. <a href="https://wanxiaojun.github.io/" class="link-accent">Xiaojun Wan</a>.
 
 <div class="quote-accent">
 My research focuses on leveraging <span class="primary-gradient-text">Large Language Models</span> to address complex systems. This includes applications in natural language processing for unstructured data, quantitative trading, and advancing scientific discovery.
 </div>
 
-**I am actively seeking research assistant opportunities in LLM applications and natural language processing**. Feel free to reach out, or learn more from <a href="assets/Jinxiang's CV.pdf" class="link-accent">📄 My CV</a>.
+**I am actively seeking research assistant opportunities in LLM applications and natural language processing**. Feel free to reach out, or learn more from <a href="assets/Jinxiang's CV.pdf" class="link-accent">My CV</a>.
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-microscope icon-accent"></i> AI Researcher</h3>
+    <h3><i class="fas fa-microscope"></i> AI Researcher</h3>
     <ul>
       <li>Research focus on <span class="accent-text">LLMs and NLP</span></li>
       <li>Internships at <span class="primary-gradient-text">top institutions</span></li>
-      <li>Publications at <span class="accent-text">AAAI</span> <span class="accent-text">ACL</span></li>
+      <li>Publications at <span class="accent-text">AAAI</span>, <span class="accent-text">ACL</span></li>
     </ul>
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-pen-fancy icon-accent"></i> Content Creator</h3>
+    <h3><i class="fas fa-pen-fancy"></i> Content Creator</h3>
     <ul>
       <li>Technical blogs with <span class="accent-text">500K+ views</span></li>
       <li>Active on <a href="https://www.xiaohongshu.com/user/profile/60c47bae000000000100b07e" class="link-accent">Xiaohongshu</a></li>
@@ -48,7 +48,7 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-globe-asia icon-accent"></i> Life Explorer</h3>
+    <h3><i class="fas fa-globe-asia"></i> Life Explorer</h3>
     <ul>
       <li>Visited <span class="accent-text">9 countries</span> worldwide</li>
       <li>Traveled to <span class="accent-text">32 provinces</span> in China</li>
@@ -57,11 +57,11 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
   </div>
 </div>
 
-# <i class="fas fa-fire icon-accent"></i> News
+# <i class="fas fa-fire"></i> News
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). <span class="accent-text">See you in Philadelphia!</span>
 - *2024.08*: &nbsp;I have joined <span class="primary-gradient-text">Microsoft</span> as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
 
-# <i class="fas fa-file-alt icon-accent"></i> Publications 
+# <i class="fas fa-file-alt"></i> Publications 
 
 <div class='paper-box floating-card'><div class='paper-box-image'><div><div class="badge pulse-accent">AAAI 2025</div><img src='images/Example_page-0001.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -75,16 +75,16 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 </div>
 </div>
 
-# <i class="fas fa-graduation-cap icon-accent"></i> Educations
+# <i class="fas fa-graduation-cap"></i> Educations
 - *2025.09 - Present*: &nbsp;Master of Science at <span class="primary-gradient-text">Kuang Yaming Honors School, Nanjing University</span>.
 - *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, <span class="primary-gradient-text">Beijing Jiaotong University</span>.
 
-# <i class="fas fa-laptop-code icon-accent"></i> Internships
+# <i class="fas fa-laptop-code"></i> Internships
 - *2024.08 - 2025.08*: &nbsp;Research Intern, <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/" class="link-accent">Data, Knowledge and Intelligence (DKI) Group</a>, **Microsoft**.
 - *2023.11 - 2024.08*: &nbsp;Research Intern, <a href="https://sai.pku.edu.cn/znxyenglish/" class="link-accent">Wangxuan Institute of Computer Technology</a>, **Peking University**.
 - *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, <a href="https://www.comp.nus.edu.sg/" class="link-accent">School of Computer</a>, **National University of Singapore**.
 
-# <i class="fas fa-blog icon-accent"></i> Blogs
+# <i class="fas fa-blog"></i> Blogs
 
 <div class='paper-box floating-card hover-float'><div class='paper-box-image'><div><div class="badge bg-gradient-animate">January, 2025</div><img src='images/pic04.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

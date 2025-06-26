@@ -70,7 +70,7 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 
 - **Jinxiang Xie**, Yilin Li, Xunjian Yin, Xiaojun Wan
 - In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)
-- <a href="https://arxiv.org/abs/2412.12832" class="btn-accent">Arxiv</a> <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="btn-accent">Code</a>
+<a href="https://arxiv.org/abs/2412.12832" class="btn-accent">Arxiv</a> <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="btn-accent">Code</a>
 
 </div>
 </div>

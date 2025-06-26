@@ -171,7 +171,7 @@ redirect_from:
 .publication-badge {
   position: absolute !important;
   top: 12px !important;
-  left: 6px !important;
+  left: 0px !important;
   background: linear-gradient(135deg, #FE667B 0%, #ff8599 100%) !important;
   color: white !important;
   padding: 0.4em 0.8em !important;
@@ -334,7 +334,7 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 </div>
 
 # <i class="fas fa-fire"></i> News
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). <span class="accent-text">See you in Philadelphia!</span>
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25). <span class="accent-text">See you in Philadelphia!</span>
 - *2024.08*: &nbsp;I have joined <span class="primary-gradient-text">Microsoft</span> as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
 
 # <i class="fas fa-file-alt"></i> Publications 

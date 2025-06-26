@@ -140,7 +140,7 @@ redirect_from:
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
   margin: 1.5rem 0 !important;
   align-items: center !important;
-  gap: 0 !important;
+  padding-left: 1.5rem !important;
 }
 
 .publication-box:hover {

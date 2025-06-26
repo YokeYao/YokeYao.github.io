@@ -129,6 +129,159 @@ redirect_from:
     grid-template-columns: repeat(3, 1fr) !important;
   }
 }
+
+/* Publications统一设计风格 */
+.publication-box {
+  display: flex !important;
+  background: #ffffff !important;
+  border-radius: 12px !important;
+  overflow: hidden !important;
+  box-shadow: 0 2px 12px rgba(1, 47, 99, 0.08) !important;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  margin: 1.5rem 0 !important;
+  align-items: center !important;
+}
+
+.publication-box:hover {
+  transform: translateY(-5px) !important;
+  box-shadow: 0 8px 25px rgba(1, 47, 99, 0.15) !important;
+}
+
+.publication-image {
+  position: relative !important;
+  width: 280px !important;
+  height: 180px !important;
+  flex-shrink: 0 !important;
+  overflow: hidden !important;
+}
+
+.publication-image img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  transition: transform 0.3s ease !important;
+}
+
+.publication-image:hover img {
+  transform: scale(1.03) !important;
+}
+
+.publication-badge {
+  position: absolute !important;
+  top: 12px !important;
+  left: 12px !important;
+  background: linear-gradient(135deg, #FE667B 0%, #ff8599 100%) !important;
+  color: white !important;
+  padding: 0.4em 0.8em !important;
+  border-radius: 20px !important;
+  font-size: 0.75em !important;
+  font-weight: 600 !important;
+  box-shadow: 0 2px 8px rgba(254, 102, 123, 0.3) !important;
+  z-index: 10 !important;
+}
+
+.publication-content {
+  flex: 1 !important;
+  padding: 1.8rem !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 0.8rem !important;
+}
+
+.publication-title {
+  font-size: 1.25rem !important;
+  font-weight: 700 !important;
+  color: #012F63 !important;
+  margin: 0 !important;
+  line-height: 1.3 !important;
+}
+
+.publication-authors {
+  font-size: 1rem !important;
+  color: #333 !important;
+  line-height: 1.4 !important;
+}
+
+.publication-venue {
+  font-size: 0.95rem !important;
+  color: #666 !important;
+  font-style: italic !important;
+}
+
+.publication-links {
+  display: flex !important;
+  gap: 0.8rem !important;
+  flex-wrap: wrap !important;
+  margin-top: 0.5rem !important;
+}
+
+.publication-link {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 0.4rem !important;
+  padding: 0.5em 1em !important;
+  background: linear-gradient(135deg, #FE667B 0%, #ff8599 100%) !important;
+  color: white !important;
+  text-decoration: none !important;
+  border-radius: 20px !important;
+  font-size: 0.85rem !important;
+  font-weight: 500 !important;
+  transition: all 0.3s ease !important;
+  box-shadow: 0 2px 8px rgba(254, 102, 123, 0.2) !important;
+}
+
+.publication-link:hover {
+  transform: translateY(-2px) !important;
+  box-shadow: 0 4px 12px rgba(254, 102, 123, 0.3) !important;
+  color: white !important;
+  text-decoration: none !important;
+}
+
+.publication-link i {
+  font-size: 0.9em !important;
+}
+
+/* 响应式设计 - Publications */
+@media (max-width: 768px) {
+  .publication-box {
+    flex-direction: column !important;
+    margin: 1rem 0 !important;
+  }
+  
+  .publication-image {
+    width: 100% !important;
+    height: 160px !important;
+  }
+  
+  .publication-content {
+    padding: 1.2rem !important;
+    gap: 0.6rem !important;
+  }
+  
+  .publication-title {
+    font-size: 1.1rem !important;
+  }
+  
+  .publication-authors,
+  .publication-venue {
+    font-size: 0.9rem !important;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .publication-image {
+    width: 240px !important;
+    height: 160px !important;
+  }
+  
+  .publication-content {
+    padding: 1.5rem !important;
+  }
+  
+  .publication-title {
+    font-size: 1.15rem !important;
+  }
+}
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -184,16 +337,28 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 
 # <i class="fas fa-file-alt"></i> Publications 
 
-<div class='paper-box floating-card'><div class='paper-box-image'><div><div class="badge pulse-accent">AAAI 2025</div><img src='images/Example_page-0001.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**DSGram: Dynamic Weighting Sub-Metrics for Grammartical Error Correction in the Era of Large Language Models**
-
-- **Jinxiang Xie**, Yilin Li, Xunjian Yin, Xiaojun Wan
-- In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)
-<a href="https://arxiv.org/abs/2412.12832" class="btn-accent">Arxiv</a> <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="btn-accent">Code</a>
-
-</div>
+<div class="publication-box">
+  <div class="publication-image">
+    <div class="publication-badge">AAAI 2025</div>
+    <img src="images/Example_page-0001.png" alt="DSGram Paper">
+  </div>
+  <div class="publication-content">
+    <h3 class="publication-title">DSGram: Dynamic Weighting Sub-Metrics for Grammartical Error Correction in the Era of Large Language Models</h3>
+    <div class="publication-authors">
+      <strong>Jinxiang Xie</strong>, Yilin Li, Xunjian Yin, Xiaojun Wan
+    </div>
+    <div class="publication-venue">
+      In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)
+    </div>
+    <div class="publication-links">
+      <a href="https://arxiv.org/abs/2412.12832" class="publication-link">
+        <i class="fas fa-file-pdf"></i> Arxiv
+      </a>
+      <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="publication-link">
+        <i class="fab fa-github"></i> Code
+      </a>
+    </div>
+  </div>
 </div>
 
 # <i class="fas fa-graduation-cap"></i> Educations

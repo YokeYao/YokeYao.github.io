@@ -5,8 +5,11 @@
 .masthead {
   position: sticky;
   top: 0;
-  background-color: white;
-  border-bottom: 1px solid $border-color;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(1, 47, 99, 0.08);
+  box-shadow: 0 1px 10px rgba(1, 47, 99, 0.05);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -65,9 +68,12 @@
   a {
     display: block;
     margin: 0 1rem;
-    padding: 0.5rem 0;
+    padding: 0.7rem 1.2rem;
     color: $masthead-link-color;
     text-decoration: none;
+    font-weight: 500;
+    border-radius: var(--border-radius-sm);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 
     &:after {
       display: none;
@@ -75,27 +81,34 @@
 
     &:hover {
       color: $masthead-link-color-hover;
+      background: rgba(254, 102, 123, 0.08);
+      transform: translateY(-1px);
     }
   }
 
   .visible-links {
+    display: flex;
+    align-items: center;
+    
     a {
       position: relative;
+      font-size: 0.9rem;
+      letter-spacing: 0.02em;
 
       &:before {
         content: "";
         position: absolute;
-        left: 0;
+        left: 50%;
         bottom: 0;
         height: 2px;
-        background: $success-color;
-        width: 100%;
-        transition: $global-transition;
-        transform: scaleX(0);
+        background: linear-gradient(90deg, $success-color 0%, $success-light 100%);
+        width: 0;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        transform: translateX(-50%);
       }
 
       &:hover:before {
-        transform: scaleX(1);
+        width: 80%;
       }
     }
   }

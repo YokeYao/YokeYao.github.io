@@ -26,7 +26,7 @@ Prior to this, I gained valuable research experience at <i class="fas fa-univers
 My research focuses on leveraging <span class="primary-gradient-text">Large Language Models</span> to address complex systems. This includes applications in natural language processing for unstructured data, quantitative trading, and advancing scientific discovery.
 </div>
 
-**I am actively seeking research assistant opportunities in LLM applications and natural language processing**. Feel free to reach out, or learn more from <a href="assets/Jinxiang's CV.pdf" class="btn-accent">📄 My CV</a>.
+**I am actively seeking research assistant opportunities in LLM applications and natural language processing**. Feel free to reach out, or learn more from <a href="assets/Jinxiang's CV.pdf" class="link-accent">📄 My CV</a>.
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
@@ -34,7 +34,7 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
     <ul>
       <li>Research focus on <span class="accent-text">LLMs and NLP</span></li>
       <li>Multiple internships at <span class="primary-gradient-text">top institutions</span></li>
-      <li>Publications at <span class="tag-accent">AAAI</span> <span class="tag-accent">ACL</span></li>
+      <li>Publications at <span class="accent-text">AAAI</span> <span class="accent-text">ACL</span></li>
     </ul>
   </div>
   

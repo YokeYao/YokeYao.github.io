@@ -19,29 +19,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div class="hero-section">
-  <div class="hero-content">
-    <h1 class="hero-title">Jinxiang Xie</h1>
-    <p class="hero-subtitle">AI Researcher & Graduate Student</p>
-    <div class="hero-description">
-      <p>My name is Jinxiang Xie (pronounced <em>"JIN-shee-ahng SHEE-eh"</em>). I am an incoming graduate student at <i class="fas fa-university"></i> <strong>Nanjing University</strong>. I earned my Bachelor's degree in Information and Computing Science from <i class="fas fa-university"></i> <strong>Beijing Jiaotong University</strong>.</p>
-      
-      <p>Currently, I am a research intern at <i class="fab fa-microsoft"></i> <strong>Microsoft</strong>, where I have the privilege of working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/">Justin Ding</a>. Prior to this, I gained valuable research experience at <i class="fas fa-university"></i> <strong>Peking University</strong> under the guidance of Prof. <a href="https://wanxiaojun.github.io/">Xiaojun Wan</a>.</p>
-    </div>
-  </div>
-</div>
+My name is Jinxiang Xie (pronounced "JIN-shee-ahng SHEE-eh"). I am an incoming graduate student at <i class="fas fa-university"></i> **Nanjing University**. I earned my Bachelor's degree in Information and Computing Science from <i class="fas fa-university"></i> **Beijing Jiaotong University**. Currently, I am a research intern at <i class="fab fa-microsoft"></i> **Microsoft**, where I have the privilege of working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/">Justin Ding</a>.
+Prior to this, I gained valuable research experience at <i class="fas fa-university"></i> **Peking University** under the guidance of Prof. <a href="https://wanxiaojun.github.io/">Xiaojun Wan</a>.
 
-<div class="research-focus">
-  <h2>🎯 Research Focus</h2>
-  <p>My research focuses on leveraging <strong>Large Language Models</strong> to address complex systems. This includes applications in natural language processing for unstructured data, quantitative trading, and advancing scientific discovery.</p>
-  <div class="cta-section">
-    <p><strong>I am actively seeking research assistant opportunities in LLM applications and natural language processing.</strong> Feel free to reach out, or learn more from <a href="assets/Jinxiang's CV.pdf" class="cv-link">My CV</a>.</p>
-  </div>
-</div>
+My research focuses on leveraging Large Language Models to address complex systems. This includes applications in natural language processing for unstructured data, quantitative trading, and advancing scientific discovery.
+
+**I am actively seeking research assistant opportunities in LLM applications and natural language processing**. Feel free to reach out, or learn more from [My CV](assets/Jinxiang's CV.pdf).
 
 <div class="highlight-blocks">
   <div class="highlight-block">
-    <h3><i class="fas fa-microscope"></i> AI Researcher</h3>
+    <h3>🔬 AI Researcher</h3>
     <ul>
       <li>Research focus on LLMs and NLP</li>
       <li>Multiple internships at top institutions</li>
@@ -50,7 +37,7 @@ redirect_from:
   </div>
   
   <div class="highlight-block">
-    <h3><i class="fas fa-pen-fancy"></i> Content Creator</h3>
+    <h3>✍️ Content Creator</h3>
     <ul>
       <li>Technical blogs with 500K+ views</li>
       <li>Active on <a href="https://www.xiaohongshu.com/user/profile/60c47bae000000000100b07e">Xiaohongshu</a></li>
@@ -59,7 +46,7 @@ redirect_from:
   </div>
   
   <div class="highlight-block">
-    <h3><i class="fas fa-globe-americas"></i> Life Explorer</h3>
+    <h3>🌎 Life Explorer</h3>
     <ul>
       <li>Visited 9 countries worldwide</li>
       <li>Traveled to 32 provinces in China</li>
@@ -75,7 +62,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Example_page-0001.png' alt="DSGram paper illustration" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Example_page-0001.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DSGram: Dynamic Weighting Sub-Metrics for Grammartical Error Correction in the Era of Large Language Models**
@@ -84,12 +71,27 @@ redirect_from:
 - In The 39th Annual AAAI Conference on Artificial Intelligence
 - [[Arxiv]](https://arxiv.org/abs/2412.12832) [[Code]](https://github.com/jxtse/GEC-Metrics-DSGram)
 
+<!-- [**Project**](https://github.com/jxtse/GEC_Metrics_LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | <a href="">Link to paper</a> -->
+<!-- - We introduce new sub-metrics for GEC evaluation.
+- We propose a novel dynamic weighting method, which integrates the Analytic Hierarchy Process with large language models to ascertain the relative importance of different evaluation criteria.
+- We present two datasets: DSGram-Eval, created through human scoring, and DSGram-LLMs, a larger dataset designed to simulate human scoring for fine-tuning. -->
 </div>
 </div>
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+<!-- # 🥇 Honors and Awards
+- *2024.08*: &nbsp;Second Prize in the Beijing Trial of the College Student "Innovation, Creativity and Entrepreneurship" Competition
+- *2024.05*: &nbsp;Honorable Mention of 2024 Mathematical Contest In Modeling
+- *2023.04*: &nbsp;First Prize of 2023 Beijing Jiaotong University Mathematical Modeling Competition -->
 
 # 📖 Educations
 - *2025.09 - 2028.06*: &nbsp;(Expected) Master of Science at Kuang Yaming Honors School, Nanjing University.
 - *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, Beijing Jiaotong University.
+
+<!-- # 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 - *2024.08 - Present*: &nbsp;Research Intern, [Data, Knowledge and Intelligence (DKI) Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), **Microsoft**.
@@ -157,3 +159,10 @@ Introduce a number of methods for optimizing the output of large language models
 
 </div>
 </div>
+
+<!-- # 👻 Miscellaneous
+
+- ⚽️ Soccer (MIA SAN MIA) / 🎾 Pickleball / 🥏 Frisbee / 👣 Hiking / 💪 Body Building / 🚗 Travelling
+- 📷 Photography (Sony A7M4) / 🎧 Music (Hip-Hop, R&B, Soul) / 🎥 Movies
+- 💻 Apple / 🚀 SpaceX / Microsoft / Google / Insta360
+- 🧍 Person Who I Admire: Elon Musk, Demis Hassabis, Fei-Fei Li -->

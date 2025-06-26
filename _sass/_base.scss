@@ -58,18 +58,7 @@
   h1 {
     margin-top: 1em;
     font-size: $type-size-3;
-    position: relative;
-    
-    &::after {
-      content: '';
-      position: absolute;
-      bottom: -8px;
-      left: 0;
-      width: 60px;
-      height: 3px;
-      background: var(--gradient-accent);
-      border-radius: 2px;
-    }
+    color: $primary-color;
   }
   
   h2 {
@@ -549,41 +538,15 @@
     }
   }
   
-  /* Enhanced Section Headers with Accent Lines */
-  h1:not(.paper-box h1):not(.highlight-block h1) {
-    position: relative;
-    padding-left: calc(var(--spacing-unit) * 0.8);
-    margin: calc(var(--spacing-unit) * 1.2) 0 calc(var(--spacing-unit) * 0.8);
-    
-    &:before {
-      content: '';
-      position: absolute;
-      left: 0;
-      top: 50%;
-      transform: translateY(-50%);
-      height: 60%;
-      width: 5px;
-      background: var(--gradient-accent);
-      border-radius: 3px;
-    }
+  /* Simplified Section Headers */
+  h1 {
+    color: $primary-color;
+    margin: 1.5em 0 1em;
   }
   
-  h2:not(.paper-box h2):not(.highlight-block h2) {
-    position: relative;
-    padding-left: calc(var(--spacing-unit) * 0.6);
-    margin: calc(var(--spacing-unit) * 1) 0 calc(var(--spacing-unit) * 0.6);
-    
-    &:before {
-      content: '';
-      position: absolute;
-      left: 0;
-      top: 50%;
-      transform: translateY(-50%);
-      height: 50%;
-      width: 4px;
-      background: var(--gradient-primary);
-      border-radius: 2px;
-    }
+  h2 {
+    color: $primary-color;
+    margin: 1.2em 0 0.8em;
   }
   
   /* Enhanced List Items */

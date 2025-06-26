@@ -375,6 +375,22 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 # <i class="fas fa-blog"></i> Blogs
 
 <div class="blog-grid">
+<div class="blog-card">
+    <div class="blog-card-image">
+      <div class="blog-badge">June, 2025</div>
+      <img src="images/pic06.jpg" alt="The Limits of My Language Mean the Limits of My World">
+    </div>
+    <div class="blog-card-content">
+      <div class="blog-title">The Limits of My Language Mean the Limits of My World</div>
+      <div class="blog-description">Drawing on Wittgenstein's philosophy, our existing language might be the fundamental bottleneck</div>
+      <div class="blog-links">
+        <a href="https://www.xiaohongshu.com/discovery/item/683c300d000000000f03b1ca?source=webshare&xhsshare=pc_web&xsec_token=AB0PoaiA05YKKE_dU2SOcfxhEzDIPcLsNtqo4slfNuuXw=&xsec_source=pc_share" class="blog-link">
+          <i class="fas fa-language"></i> 中文版
+        </a>
+      </div>
+    </div>
+  </div>
+
   <div class="blog-card">
     <div class="blog-card-image">
       <div class="blog-badge">January, 2025</div>
@@ -403,7 +419,7 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
       <div class="blog-title">LexiMind: An Open-Source LLM-Powered Vocabulary Builder</div>
       <div class="blog-description">LexiMind is an AI-powered vocabulary builder that integrates LLM-based translation with smart word retention.</div>
       <div class="blog-links">
-        <a href="https://www.xiaohongshu.com/explore/67a48f0d000000001800721c?xsec_token=ABXUfGRE_zHTnXbEyaNmuelNX3M4527lw3zirVu2KJUKA=&xsec_source=pc_user" class="blog-link">
+        <a href="https://www.xiaohongshu.com/discovery/item/67a48f0d000000001800721c?source=webshare&xhsshare=pc_web&xsec_token=ABXUfGRE_zHTnXbEyaNmuelBHrgbyYI_AxjJL2AYctNxE=&xsec_source=pc_share" class="blog-link">
           <i class="fas fa-info-circle"></i> Introduction
         </a>
         <a href="https://github.com/jxtse/LexiMind" class="blog-link">
@@ -422,7 +438,7 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
       <div class="blog-title">My NLP Learning Path as a Mathematics Undergraduate Student</div>
       <div class="blog-description">I share my learning path and some insights on natural language processing as a mathematics undergraduate student.</div>
       <div class="blog-links">
-        <a href="https://www.xiaohongshu.com/explore/668a35c8000000001e010600?xsec_token=ABl3IEpctnnXxbjsYlUul3nZBcA622VEEpS6zNOEPrxVI=&xsec_source=pc_user" class="blog-link">
+        <a href="https://www.xiaohongshu.com/discovery/item/668a35c8000000001e010600?source=webshare&xhsshare=pc_web&xsec_token=ABl3IEpctnnXxbjsYlUul3nTDdCUYhZP7SljcVPMl9I6s=&xsec_source=pc_share" class="blog-link">
           <i class="fas fa-language"></i> 中文版
         </a>
         <a href="https://www.linkedin.com/posts/jinxiang-xie_naturallanguageprocessing-nlp-learningpath-activity-7215638435393359872-dPr8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEmWk88Bhyvl-E41lfo1McNlpiC4YSsk7WQ" class="blog-link">

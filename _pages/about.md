@@ -382,7 +382,7 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
     </div>
     <div class="blog-card-content">
       <div class="blog-title">The Limits of My Language Mean the Limits of My World</div>
-      <div class="blog-description">Drawing on Wittgenstein's philosophy, our existing language might be the fundamental bottleneck</div>
+      <div class="blog-description">Drawing on Wittgenstein's philosophy, a recent paper argues that our existing language might be the fundamental bottleneck.</div>
       <div class="blog-links">
         <a href="https://www.xiaohongshu.com/discovery/item/683c300d000000000f03b1ca?source=webshare&xhsshare=pc_web&xsec_token=AB0PoaiA05YKKE_dU2SOcfxhEzDIPcLsNtqo4slfNuuXw=&xsec_source=pc_share" class="blog-link">
           <i class="fas fa-language"></i> 中文版
@@ -398,7 +398,7 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
     </div>
     <div class="blog-card-content">
       <div class="blog-title">Beyond the Future of AI: The Dreams and Deceptions of Cryptocurrency</div>
-      <div class="blog-description">My vision of the future: from Bitcoin to an AGI-driven decentralized society</div>
+      <div class="blog-description">My vision of the future: from Bitcoin to an AGI-driven decentralized society. We must design a more sophisticated trust mechanism than blockchain to install “guardrails” for AI.</div>
       <div class="blog-links">
         <a href="https://mp.weixin.qq.com/s/luu2qEzPnYAuryJ9mYoJ6Q" class="blog-link">
           <i class="fas fa-language"></i> 中文版

@@ -140,6 +140,7 @@ redirect_from:
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
   margin: 1.5rem 0 !important;
   align-items: center !important;
+  gap: 0 !important;
 }
 
 .publication-box:hover {
@@ -182,7 +183,7 @@ redirect_from:
 
 .publication-content {
   flex: 1 !important;
-  padding: 1.8rem !important;
+  padding: 1.8rem 1.8rem 1.8rem 0.8rem !important;
   display: flex !important;
   flex-direction: column !important;
   gap: 0.8rem !important;
@@ -275,7 +276,7 @@ redirect_from:
   }
   
   .publication-content {
-    padding: 1.5rem !important;
+    padding: 1.5rem 1.5rem 1.5rem 0.8rem !important;
   }
   
   .publication-title {

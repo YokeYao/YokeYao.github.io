@@ -387,6 +387,9 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
         <a href="https://www.xiaohongshu.com/discovery/item/683c300d000000000f03b1ca?source=webshare&xhsshare=pc_web&xsec_token=AB0PoaiA05YKKE_dU2SOcfxhEzDIPcLsNtqo4slfNuuXw=&xsec_source=pc_share" class="blog-link">
           <i class="fas fa-language"></i> 中文版
         </a>
+        <a href="https://jxtse.medium.com/the-limits-of-my-language-are-the-limits-of-my-world-can-we-ever-truly-understand-ai-f7cc72327dac" class="blog-link">
+          <i class="fas fa-globe"></i> English
+        </a>
       </div>
     </div>
   </div>

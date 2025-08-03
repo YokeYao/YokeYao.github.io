@@ -141,7 +141,7 @@ redirect_from:
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
   margin: 1.5rem 0 !important;
   align-items: center !important;
-  padding-left: 1.5rem !important;
+  padding: 1rem !important;
 }
 
 .publication-box:hover {
@@ -155,6 +155,11 @@ redirect_from:
   height: 180px !important;
   flex-shrink: 0 !important;
   overflow: hidden !important;
+  padding: 12px !important;
+  background: #f8f9fa !important;
+  border-radius: 8px !important;
+  margin: 12px !important;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.06) !important;
 }
 
 .publication-image img {
@@ -184,7 +189,7 @@ redirect_from:
 
 .publication-content {
   flex: 1 !important;
-  padding: 1.8rem 1.8rem 1.8rem 0.8rem !important;
+  padding: 1.5rem !important;
   display: flex !important;
   flex-direction: column !important;
   gap: 0.8rem !important;
@@ -253,6 +258,8 @@ redirect_from:
   .publication-image {
     width: 100% !important;
     height: 160px !important;
+    margin: 0 !important;
+    padding: 8px !important;
   }
   
   .publication-content {
@@ -274,10 +281,12 @@ redirect_from:
   .publication-image {
     width: 240px !important;
     height: 160px !important;
+    padding: 10px !important;
+    margin: 8px !important;
   }
   
   .publication-content {
-    padding: 1.5rem 1.5rem 1.5rem 0.8rem !important;
+    padding: 1.2rem !important;
   }
   
   .publication-title {

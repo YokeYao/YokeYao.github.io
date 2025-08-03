@@ -341,6 +341,30 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 
 <div class="publication-box">
   <div class="publication-image">
+    <div class="publication-badge">Preprint</div>
+    <img src="images/Example_page-0002.png" alt="CAST Paper">
+  </div>
+  <div class="publication-content">
+    <h3 class="publication-title">CAST: Achieving Stable LLM-based Text Analysis for Data Analytics</h3>
+    <div class="publication-authors">
+      <strong>Jinxiang Xie</strong>, Zihao Li, Wei He, Rui Ding, Shi Han, Dongmei Zhang
+    </div>
+    <!-- <div class="publication-venue">
+      In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)
+    </div>
+    <div class="publication-links">
+      <a href="https://arxiv.org/abs/2412.12832" class="publication-link">
+        <i class="fas fa-file-pdf"></i> Arxiv
+      </a>
+      <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="publication-link">
+        <i class="fab fa-github"></i> Code
+      </a>
+    </div> -->
+  </div>
+</div>
+
+<div class="publication-box">
+  <div class="publication-image">
     <div class="publication-badge">AAAI 2025</div>
     <img src="images/Example_page-0001.png" alt="DSGram Paper">
   </div>
@@ -362,6 +386,10 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
     </div>
   </div>
 </div>
+
+- Qiyang Chen, Yuezhi Wang, **Jinxiang Xie**, Guozheng Li, Chi Harold Liu. $M^3$ Trader: Multimodal Macro–Micro Inference with LLM-Guided Reinforcement Learning for Quantitative Trading. Preprint.
+
+- Yingjian Chen, Haoran Liu, Yinhong Liu, **Jinxiang Xie**, Rui Yang, Han Yuan, Yanran Fu, et.al. GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge Graph-Powered Fact-Checking. **ACL 2025**.
 
 # <i class="fas fa-graduation-cap"></i> Educations
 - *2025.09 - Present*: &nbsp;Master of Science at Kuang Yaming Honors School, <span class="primary-gradient-text">Nanjing University</span>.

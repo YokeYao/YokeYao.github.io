@@ -63,6 +63,18 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 
 # <i class="fas fa-file-alt"></i> Publications 
 
+<div class='paper-box floating-card'><div class='paper-box-image'><div><div class="badge pulse-accent">AAAI 2025</div><img src='images/Example_page-0002.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CAST: Achieving Stable LLM-based Text Analysis for Data Analytics**
+
+- **Jinxiang Xie**, Zihao Li, Wei He, Rui Ding, Shi Han, Dongmei Zhang
+<!-- - In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)
+<a href="https://arxiv.org/abs/2412.12832" class="btn-accent">Arxiv</a> <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="btn-accent">Code</a> -->
+
+</div>
+</div>
+
 <div class='paper-box floating-card'><div class='paper-box-image'><div><div class="badge pulse-accent">AAAI 2025</div><img src='images/Example_page-0001.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -71,18 +83,6 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 - **Jinxiang Xie**, Yilin Li, Xunjian Yin, Xiaojun Wan
 - In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)
 <a href="https://arxiv.org/abs/2412.12832" class="btn-accent">Arxiv</a> <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="btn-accent">Code</a>
-
-</div>
-</div>
-
-<div class='paper-box floating-card'><div class='paper-box-image'><div><div class="badge pulse-accent">AAAI 2025</div><img src='images/Example_page-0001.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**CAST: Achieving Stable LLM-based Text Analysis for Data Analytics**
-
-- **Jinxiang Xie**, Zihao Li, Wei He, Rui Ding, Shi Han, Dongmei Zhang
-<!-- - In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)
-<a href="https://arxiv.org/abs/2412.12832" class="btn-accent">Arxiv</a> <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="btn-accent">Code</a> -->
 
 </div>
 </div>

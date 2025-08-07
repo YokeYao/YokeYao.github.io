@@ -63,28 +63,36 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 
 # <i class="fas fa-file-alt"></i> Publications 
 
-<div class='paper-box floating-card'><div class='paper-box-image'><div><div class="badge pulse-accent">AAAI 2025</div><img src='images/Example_page-0002.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**CAST: Achieving Stable LLM-based Text Analysis for Data Analytics**
-
-- **Jinxiang Xie**, Zihao Li, Wei He, Rui Ding, Shi Han, Dongmei Zhang
-<!-- - In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)
-<a href="https://arxiv.org/abs/2412.12832" class="btn-accent">Arxiv</a> <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="btn-accent">Code</a> -->
-
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">AAAI 2025</div>
+    <img src='images/Example_page-0002.png' alt="CAST Framework Architecture" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>CAST: Achieving Stable LLM-based Text Analysis for Data Analytics</h3>
+    <div class="authors"><strong>Jinxiang Xie</strong>, Zihao Li, Wei He, Rui Ding, Shi Han, Dongmei Zhang</div>
+    <div class="venue">In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)</div>
+    <div class="links">
+      <a href="#" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="#" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    </div>
+  </div>
 </div>
-</div>
 
-<div class='paper-box floating-card'><div class='paper-box-image'><div><div class="badge pulse-accent">AAAI 2025</div><img src='images/Example_page-0001.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**DSGram: Dynamic Weighting Sub-Metrics for Grammartical Error Correction in the Era of Large Language Models**
-
-- **Jinxiang Xie**, Yilin Li, Xunjian Yin, Xiaojun Wan
-- In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)
-<a href="https://arxiv.org/abs/2412.12832" class="btn-accent">Arxiv</a> <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="btn-accent">Code</a>
-
-</div>
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">AAAI 2025</div>
+    <img src='images/Example_page-0001.png' alt="DSGram Framework Overview" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>DSGram: Dynamic Weighting Sub-Metrics for Grammatical Error Correction in the Era of Large Language Models</h3>
+    <div class="authors"><strong>Jinxiang Xie</strong>, Yilin Li, Xunjian Yin, Xiaojun Wan</div>
+    <div class="venue">In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)</div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2412.12832" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
+      <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    </div>
+  </div>
 </div>
 
 - Qiyang Chen, Yuezhi Wang, **Jinxiang Xie**, Guozheng Li, Chi Harold Liu. $M^3$ Trader: Multimodal Macro–Micro Inference with LLM-Guided Reinforcement Learning for Quantitative Trading. **Preprint**.

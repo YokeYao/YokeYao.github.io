@@ -699,7 +699,7 @@ body {
   padding: 0.5rem 1rem;
   background: linear-gradient(135deg, #FE667B 0%, #ff8599 100%);
   color: white !important;
-  text-decoration: none;
+  text-decoration: none !important;
   border-radius: 25px;
   font-size: 0.85rem;
   font-weight: 600;
@@ -729,7 +729,7 @@ body {
   transform: translateY(-2px);
   box-shadow: 0 6px 15px rgba(254, 102, 123, 0.3);
   color: white !important;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 .blog-link:active {
@@ -745,54 +745,7 @@ body {
   transform: scale(1.1);
 }
 
-/* 不同类型按钮的细微差异化 */
-.blog-link[href*="github"] {
-  background: linear-gradient(135deg, #24292e 0%, #333 100%);
-}
 
-.blog-link[href*="github"]:hover {
-  box-shadow: 0 6px 15px rgba(36, 41, 46, 0.3);
-}
-
-.blog-link[href*="medium"] {
-  background: linear-gradient(135deg, #00ab6c 0%, #00d084 100%);
-}
-
-.blog-link[href*="medium"]:hover {
-  box-shadow: 0 6px 15px rgba(0, 171, 108, 0.3);
-}
-
-.blog-link[href*="linkedin"] {
-  background: linear-gradient(135deg, #0077b5 0%, #00a0dc 100%);
-}
-
-.blog-link[href*="linkedin"]:hover {
-  box-shadow: 0 6px 15px rgba(0, 119, 181, 0.3);
-}
-
-.blog-link[href*="weixin"], .blog-link[href*="mp.weixin"] {
-  background: linear-gradient(135deg, #07c160 0%, #1aad19 100%);
-}
-
-.blog-link[href*="weixin"]:hover, .blog-link[href*="mp.weixin"]:hover {
-  box-shadow: 0 6px 15px rgba(7, 193, 96, 0.3);
-}
-
-.blog-link[href*="xiaohongshu"] {
-  background: linear-gradient(135deg, #ff2442 0%, #ff4757 100%);
-}
-
-.blog-link[href*="xiaohongshu"]:hover {
-  box-shadow: 0 6px 15px rgba(255, 36, 66, 0.3);
-}
-
-.blog-link[href*="sspai"] {
-  background: linear-gradient(135deg, #d71345 0%, #e63946 100%);
-}
-
-.blog-link[href*="sspai"]:hover {
-  box-shadow: 0 6px 15px rgba(215, 19, 69, 0.3);
-}
 
 /* 响应式设计 */
 @media (max-width: 768px) {

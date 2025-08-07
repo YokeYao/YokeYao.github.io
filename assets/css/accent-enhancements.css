@@ -39,6 +39,10 @@
   overflow: hidden;
 }
 
+.btn-accent::after {
+  display: none;
+}
+
 .btn-accent::before {
   content: '';
   position: absolute;

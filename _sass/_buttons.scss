@@ -21,6 +21,11 @@
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
+  
+  /* Remove underline from global link styling */
+  &::after {
+    display: none;
+  }
 
   &:hover {
     background-color: mix(white, #000, 20%);
@@ -51,6 +56,11 @@
     color: $gray !important;
     border: 1px solid $light-gray !important; /* override*/
     background-color: #fff;
+
+    /* Remove underline from global link styling */
+    &::after {
+      display: none;
+    }
 
     &:hover {
       color: #fff !important;

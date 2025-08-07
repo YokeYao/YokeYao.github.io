@@ -461,17 +461,6 @@ body {
   position: relative;
 }
 
-.paper-box-text::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 20%;
-  bottom: 20%;
-  width: 3px;
-  background: linear-gradient(to bottom, #FE667B, #ff8599);
-  border-radius: 2px;
-}
-
 .paper-box-text h3 {
   margin: 0 0 1rem 0;
   font-size: 1.25rem;
@@ -539,16 +528,6 @@ body {
   
   .paper-box-text {
     padding: 1.5rem;
-  }
-  
-  .paper-box-text::before {
-    width: 100%;
-    height: 3px;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: auto;
-    background: linear-gradient(to right, #FE667B, #ff8599);
   }
   
   .paper-box-text h3 {

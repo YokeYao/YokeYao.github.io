@@ -69,11 +69,27 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 **DSGram: Dynamic Weighting Sub-Metrics for Grammartical Error Correction in the Era of Large Language Models**
 
 - **Jinxiang Xie**, Yilin Li, Xunjian Yin, Xiaojun Wan
-- In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)
+- In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)
 <a href="https://arxiv.org/abs/2412.12832" class="btn-accent">Arxiv</a> <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="btn-accent">Code</a>
 
 </div>
 </div>
+
+<div class='paper-box floating-card'><div class='paper-box-image'><div><div class="badge pulse-accent">AAAI 2025</div><img src='images/Example_page-0001.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CAST: Achieving Stable LLM-based Text Analysis for Data Analytics**
+
+- **Jinxiang Xie**, Zihao Li, Wei He, Rui Ding, Shi Han, Dongmei Zhang
+<!-- - In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-25)
+<a href="https://arxiv.org/abs/2412.12832" class="btn-accent">Arxiv</a> <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="btn-accent">Code</a> -->
+
+</div>
+</div>
+
+- Qiyang Chen, Yuezhi Wang, **Jinxiang Xie**, Guozheng Li, Chi Harold Liu. $M^3$ Trader: Multimodal Macro–Micro Inference with LLM-Guided Reinforcement Learning for Quantitative Trading. **Preprint**.
+
+- Yingjian Chen, Haoran Liu, Yinhong Liu, **Jinxiang Xie**, Rui Yang, et.al. GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge Graph-Powered Fact-Checking. **ACL 2025**.
 
 # <i class="fas fa-graduation-cap"></i> Educations
 - *2025.09 - Present*: &nbsp;Master of Science at <span class="primary-gradient-text">Kuang Yaming Honors School, Nanjing University</span>.
@@ -87,6 +103,25 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 # <i class="fas fa-blog"></i> Blogs
 
 <div class="blog-grid">
+<div class="blog-card">
+    <div class="blog-card-image">
+      <div class="blog-badge">June, 2025</div>
+      <img src="images/pic06.jpg" alt="The Limits of My Language Mean the Limits of My World">
+    </div>
+    <div class="blog-card-content">
+      <div class="blog-title">The Limits of My Language Mean the Limits of My World</div>
+      <div class="blog-description">Drawing on Wittgenstein's philosophy, a recent paper argues that our existing language might be the fundamental bottleneck.</div>
+      <div class="blog-links">
+        <a href="https://www.xiaohongshu.com/discovery/item/683c300d000000000f03b1ca?source=webshare&xhsshare=pc_web&xsec_token=AB0PoaiA05YKKE_dU2SOcfxhEzDIPcLsNtqo4slfNuuXw=&xsec_source=pc_share" class="blog-link">
+          <i class="fas fa-language"></i> 中文版
+        </a>
+        <a href="https://jxtse.medium.com/the-limits-of-my-language-are-the-limits-of-my-world-can-we-ever-truly-understand-ai-f7cc72327dac" class="blog-link">
+          <i class="fas fa-globe"></i> English
+        </a>
+      </div>
+    </div>
+  </div>
+
   <div class="blog-card">
     <div class="blog-card-image">
       <div class="blog-badge">January, 2025</div>

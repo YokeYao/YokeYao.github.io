@@ -65,13 +65,13 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">AAAI 2025</div>
+    <div class="badge pulse-accent">Preprint</div>
     <img src='images/Example_page-0002.png' alt="CAST Framework Architecture" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>CAST: Achieving Stable LLM-based Text Analysis for Data Analytics</h3>
     <div class="authors"><strong>Jinxiang Xie</strong>, Zihao Li, Wei He, Rui Ding, Shi Han, Dongmei Zhang</div>
-    <div class="venue">In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)</div>
+    <div class="venue">Preprint</div>
     <div class="links">
       <a href="#" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       <a href="#" class="btn-accent"><i class="fab fa-github"></i> Code</a>

@@ -29,8 +29,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Junchi Yao"
   avatar           : "images/circle.jpg"
-  bio              : "University of Electronic Science and Technology of China"
-  location         : "Chengdu, China"
+  bio              : "University of Electronic Science and Technology of China (UESTC)"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7gdm-OIAAAAJ&hl=en"
@@ -49,7 +49,7 @@ author:
   instagram        : 
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "www.linkedin.com/in/junchi-yao-758726342"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -63,11 +63,11 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  xiaohongshu      : "https://www.xiaohongshu.com/user/profile/62e34045000000001f007672" 
 # 添加语言设置
 languages:
   - en
-  - zh
+  # - zh
 default_lang: "en"
 t:
   en:
@@ -77,13 +77,12 @@ t:
     publications: "Publications"
     educations: "Educations"
     internships: "Internships"
-    blogs: "Blogs"
-  zh:
-    home: "首页"
-    about: "关于"
-    publications: "发表论文"
-    projects: "项目"
-    contact: "联系方式"
+  # zh:
+  #   home: "首页"
+  #   about: "关于"
+  #   publications: "发表论文"
+  #   projects: "项目"
+  #   contact: "联系方式"
 
 # Reading Files
 include:

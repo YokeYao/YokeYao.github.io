@@ -49,7 +49,7 @@ author:
   instagram        : 
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/junchi-yao-758726342"
+  linkedin         : "https://www.linkedin.com/in/junchi-yao-758726342/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -63,7 +63,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  xiaohongshu      : "https://www.xiaohongshu.com/user/profile/62e34045000000001f007672" 
+  xiaohongshu      : "user/profile/62e34045000000001f007672" 
 # 添加语言设置
 languages:
   - en

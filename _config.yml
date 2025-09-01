@@ -12,9 +12,9 @@ title_separator          : "-"
 subtitle                 : 
 name                     : "Junchi Yao"
 description              : ""
-url                     : "https://yjc.github.io"
+url                     : "https://YokeYao.github.io"
 baseurl                 : ""
-repository               : "YokeYao/yjc.github.io"
+repository               : "YokeYao/YokeYao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics

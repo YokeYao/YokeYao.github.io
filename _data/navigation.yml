@@ -15,5 +15,5 @@ main:
   - title: "internships"
     url: "/#-internships"
 
-  - title: "blogs"
-    url: "/#-blogs"
+  # - title: "blogs"
+  #   url: "/#-blogs"

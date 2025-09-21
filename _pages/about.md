@@ -58,6 +58,7 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
 </div>
 
 # <i class="fas fa-fire"></i> News
+- *2025.09*：&nbsp;🎉 1 Paper is accepted by The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025). <span class="accent-text">See you in San Diago, America!</span>
 - *2025.06*: &nbsp;🎉 1 Paper is accepted by The 42nd International Conference on Machine Learning（ICML 2025）Multi-Agent System Workshop.
 - *2025.05*：&nbsp;🎉 2 Papers are accepted by The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025) Findings. <span class="accent-text">See you in Vienna, Austria!</span>
 - *2025.04*：&nbsp;🎉 1 Paper is accepted by Nature - Scientific Reports.
@@ -66,16 +67,16 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Preprint</div>
+    <div class="badge pulse-accent">NeurIPS 2025</div>
     <img src='images/scaling-physics.png' alt="Pipeline of PHYSICS Dataset" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>Scaling Physical Reasoning with the PHYSICS Dataset</h3>
     <div class="authors">Shenghe Zheng*, Qianjia Cheng*, <strong><u>Junchi Yao*</u></strong>, Mengsong Wu, Haonan He, Ning Ding, Yu Cheng, Shuyue Hu, Lei Bai, Dongzhan Zhou, Ganqu Cui, Peng Ye</div>
-    <div class="venue">Preprint</div>
+    <div class="venue">NeurIPS 2025</div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2506.00022" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="#" class="btn-accent"><i class="fab fa-github"></i> Code (Incoming)</a>
+      <a href="https://github.com/Zhengsh123/PHYSICS.git" class="btn-accent"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
 </div>

@@ -26,7 +26,7 @@ Before that, I gained valuable research experience as a research intern at <i cl
 My research focuses on <span class="primary-gradient-text">Large Language Models</span>, particularly in explainability (XAI), LLM agents, and LLM4Science, including social science and physics. My goal is to advance LLM development for interpretable, robust, and impactful real-world applications.
 </div>
 
-**I am actively seeking research collaborators, whether you are new or experienced.**. Feel free to reach out, or learn more from <a href="assets/UESTC-Junchi Yao CV.pdf" class="link-accent">My CV</a>.
+**I am actively seeking research collaborators, whether you are new or experienced.**. Feel free to reach out, or learn more from <a href="assets/Junchi Yao CV 9.21.pdf" class="link-accent">My CV</a>.
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
@@ -34,7 +34,7 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
     <ul>
       <li>Research focus on <span class="accent-text">LLMs</span></li>
       <li>Internships at <span class="primary-gradient-text">Shanghai AI Lab</span></li>
-      <li>Publications at <span class="accent-text">ACL</span></li>
+      <li>Publications at <span class="accent-text">ACL, NeurIPS</span></li>
     </ul>
   </div>
   
@@ -50,7 +50,7 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-globe-asia"></i> World Explorer</h3>
     <ul>
-      <li>Visited <span class="accent-text">11 countries</span> worldwide</li>
+      <li>Visited <span class="accent-text">12 countries</span> worldwide</li>
       <li>Traveled to <span class="accent-text">27 provinces</span> in China</li>
       <li>Rich experience in <span class="primary-gradient-text">hiking</span></li>
     </ul>

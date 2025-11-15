@@ -148,7 +148,7 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
 </div>
 
 # <i class="fas fa-graduation-cap"></i> Educations
-- *2025.11 - 2026.05*：&nbsp;Visiting Student of Machine Learning Department, <span class="primary-gradient-text">MBZUAI</span>.
+- *2025.11 - 2026.05*: &nbsp;Visiting Student of Machine Learning Department, <span class="primary-gradient-text">MBZUAI</span>.
 - *2022.09 - 2026.06*: &nbsp;Bachelor of Engineer in Information System and Information Management, <span class="primary-gradient-text">UESTC</span>.
 - *2023.11 - 2024.04*: &nbsp;<a href="https://yfel.ku.ac.ae/yfel/" class="link-accent">Young Future Energy Leader Programme Student</a>, <span class="primary-gradient-text">Khalifa University</span>.
 

@@ -19,11 +19,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Junchi Yao</span> (pronounced "JOON-chee YOW"). I am doing my sophmore year in Information System and Information Management from <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)**. Currently, I am a research intern at <i class="fas fa-university"></i> **Shanghai AI Lab**, where I have the privilege of working with Researcher <a href="https://openreview.net/profile?id=~Peng_Ye4" class="link-accent">Peng Ye</a>.
+My name is <span class="accent-text">Junchi Yao</span> (pronounced "JOON-chee YOW"). I am doing my senior (final) year in Information System and Information Management from <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)**. Currently, I'm a visiting student in the Machine Learning Department at <i class="fas fa-university"></i> **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**, supervised by Prof. <a href="https://lijie-hu.github.io/" class="link-accent"> Lijie Hu</a>. Also, I am a research intern at <i class="fas fa-university"></i> **Shanghai AI Lab**, where I have the privilege of working with Researcher <a href="https://openreview.net/profile?id=~Peng_Ye4" class="link-accent">Peng Ye</a>.
 Before that, I gained valuable research experience as a research intern at <i class="fas fa-university"></i> **King Abdullah University of Science and Technology (KAUST)** under the guidance of Prof. <a href="https://shao3wangdi.github.io/" class="link-accent">Di Wang</a>.
 
 <div class="quote-accent">
-My research focuses on <span class="primary-gradient-text">Large Language Models</span>, particularly in explainability (XAI), LLM agents, and LLM4Science, including social science and physics. My goal is to advance LLM development for interpretable, robust, and impactful real-world applications.
+My research focuses on <span class="primary-gradient-text">Large Language Models</span>, particularly in explainability (XAI), LLM agents, and LLM4Science, including social science and physics. Moreover, I have recently begun learning about Vision-Language-Action (VLA) models. My goal is to advance robotics and LLM research toward interpretable, robust, and impactful real-world applications.
 </div>
 
 **I am actively seeking research collaborators, whether you are new or experienced.**. Feel free to reach out, or learn more from <a href="assets/Junchi Yao CV 9.21.pdf" class="link-accent">My CV</a>.
@@ -32,9 +32,10 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-microscope"></i> AI Researcher</h3>
     <ul>
-      <li>Research focus on <span class="accent-text">LLMs</span></li>
-      <li>Internships at <span class="primary-gradient-text">Shanghai AI Lab</span></li>
-      <li>Publications at <span class="accent-text">ACL, NeurIPS</span></li>
+      <li>Research focus on <span class="accent-text">LLMs and VLAs</span></li>
+      <li>Visit at <span class="primary-gradient-text">MBZUAI</span></li>
+      <li>Intern at <span class="primary-gradient-text">Shanghai AI Lab</span></li>
+      <li>Publications in <span class="accent-text">ACL, NeurIPS</span></li>
     </ul>
   </div>
   
@@ -51,8 +52,8 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
     <h3><i class="fas fa-globe-asia"></i> World Explorer</h3>
     <ul>
       <li>Visited <span class="accent-text">12 countries</span> worldwide</li>
-      <li>Traveled to <span class="accent-text">27 provinces</span> in China</li>
-      <li>Rich experience in <span class="primary-gradient-text">hiking</span></li>
+      <li>Traveled to <span class="accent-text">28 provinces and territories</span> in China</li>
+      <li>Rich experience in <span class="primary-gradient-text">driving and hiking</span></li>
     </ul>
   </div>
 </div>
@@ -63,6 +64,7 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
 - *2025.05*：&nbsp;🎉 2 Papers are accepted by The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025) Findings. <span class="accent-text">See you in Vienna, Austria!</span>
 - *2025.04*：&nbsp;🎉 1 Paper is accepted by Nature - Scientific Reports.
 - *2025.03*: &nbsp;I have joined <span class="primary-gradient-text">Shanghai AI Lab</span> as a Research Intern under the guidance of Researcher Peng Ye, where I focus on LLM Agents and LLM for Physics.
+
 # <i class="fas fa-file-alt"></i> Publications 
 
 <div class='paper-box floating-card'>
@@ -146,11 +148,12 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
 </div>
 
 # <i class="fas fa-graduation-cap"></i> Educations
-<!-- - *2025.09 - Present*: &nbsp;Master of Science at <span class="primary-gradient-text">Kuang Yaming Honors School, Nanjing University</span>. -->
-- *2022.09 - 2026.06*: &nbsp;Bachelor of Engineer in Information System and Information Management, <span class="primary-gradient-text">University of Electronic Science and Technology of China</span>.
+- *2025.11 - 2026.05*：&nbsp;Visiting Student of Machine Learning Department, <span class="primary-gradient-text">MBZUAI</span>.
+- *2022.09 - 2026.06*: &nbsp;Bachelor of Engineer in Information System and Information Management, <span class="primary-gradient-text">UESTC</span>.
 - *2023.11 - 2024.04*: &nbsp;<a href="https://yfel.ku.ac.ae/yfel/" class="link-accent">Young Future Energy Leader Programme Student</a>, <span class="primary-gradient-text">Khalifa University</span>.
+
 # <i class="fas fa-laptop-code"></i> Internships
 - *2025.03 - Present*: &nbsp;Research Intern, <a href="https://www.shlab.org.cn/" class="link-accent">AI4Science</a>, **Shanghai AI Lab**.
-- *2024.07 - 2025.03*：&nbsp;LLM Agent Engineer, <a href="https://mountainguests.com" class="link-accent">Product Design and R&D Department</a>, **GoAfarAI (Startup)**.
+- *2024.07 - 2025.03*: &nbsp;LLM Agent Engineer, <a href="https://mountainguests.com" class="link-accent">Product Design and R&D Department</a>, **GoAfarAI (Startup)**.
 - *2024.06 - 2025.06*: &nbsp;Research Intern, <a href="https://pradalab1.github.io/" class="link-accent">Provable Responsible Al and Data Analytics Lab</a>, **KAUST**.
 - *2024.04 - 2025.02*: &nbsp;Research Intern, <a href="https://cs.sicnu.edu.cn/" class="link-accent">School of Computer Science</a>, **Sichuan Normal University**.

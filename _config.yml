@@ -63,7 +63,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  xiaohongshu      : "user/profile/62e34045000000001f007672" 
+  xiaohongshu      : "https://www.xiaohongshu.com/user/profile/62e34045000000001f007672"
 # 添加语言设置
 languages:
   - en

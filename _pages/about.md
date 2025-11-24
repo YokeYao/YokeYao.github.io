@@ -59,13 +59,32 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
 </div>
 
 # <i class="fas fa-fire"></i> News
-- *2025.09*：&nbsp;🎉 1 Paper is accepted by The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025). <span class="accent-text">See you in San Diago, America!</span>
+- *2025.11*: &nbsp;⭐ **P1 Technical Report** is published on Hugging Face/Arxiv, ranked **#2 in Daily Papers**, and was featured by [QbitAI (量子位)](https://mp.weixin.qq.com/s/VS6cI7EhZRQwZRqMeqTgSg?from=groupmessage&scene=1&subscene=10000&sessionid=1763976328&clicktime=1764002549&enterid=1764002549&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=8011457-en_US-zip&fasttmpl_flag=0&realreporttime=1764002549791).
+- *2025.11*: &nbsp;✈️ I have joined <span class="primary-gradient-text">MBZUAI</span> as a Visiting Student, supervised by Lijie Hu, where I focus on XAI on (M)LLM/ALM/VLA.
+- *2025.09*: &nbsp;🎉 1 Paper is accepted by The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025). <span class="accent-text">See you in San Diago, America!</span>
 - *2025.06*: &nbsp;🎉 1 Paper is accepted by The 42nd International Conference on Machine Learning（ICML 2025）Multi-Agent System Workshop.
-- *2025.05*：&nbsp;🎉 2 Papers are accepted by The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025) Findings. <span class="accent-text">See you in Vienna, Austria!</span>
-- *2025.04*：&nbsp;🎉 1 Paper is accepted by Nature - Scientific Reports.
-- *2025.03*: &nbsp;I have joined <span class="primary-gradient-text">Shanghai AI Lab</span> as a Research Intern under the guidance of Researcher Peng Ye, where I focus on LLM Agents and LLM for Physics.
+- *2025.05*: &nbsp;🎉 2 Papers are accepted by The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025) Findings. <span class="accent-text">See you in Vienna, Austria!</span>
+- *2025.04*: &nbsp;🎉 1 Paper is accepted by Nature - Scientific Reports.
+- *2025.03*: &nbsp;✈️ I have joined <span class="primary-gradient-text">Shanghai AI Lab</span> as a Research Intern under the guidance of Researcher Peng Ye, where I focus on LLM Agents and LLM for Physics.
 
 # <i class="fas fa-file-alt"></i> Publications 
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Technical Report</div>
+    <img src='images/P1.png' alt="P1-235B-A22B + PhysicsMinions ranks No.1 on IPhO 2025." width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3> P1: Mastering Physics Olympiads with
+ Reinforcement Learning</h3>
+    <div class="authors"> Jiacheng Chen∗, Qianjia Cheng∗, Fangchen Yu∗, Haiyuan Wan, Yuchen Zhang, Shenghe Zheng,  <strong><u>Junchi Yao*</u></strong>, Qingyang Zhang, Haonan He, Yun Luo, Yufeng Zhao, Futing Wang, Li Sheng, Chengxing Xie, Yuxin Zuo, Yizhuo Li, Wenxuan Zeng, Yulun Wu, Rui Huang, Dongzhan Zhou, Kai Chen, Yu Qiao, Lei Bai, Yu Cheng, Ning Ding, Bowen Zhou, Peng Ye, Ganqu Cui</div>
+    <div class="venue">Technical Report</div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2511.13612" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/PRIME-RL/P1" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    </div>
+  </div>
+</div>
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
@@ -109,7 +128,7 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
     <div class="authors"><strong><u>Junchi Yao*</u></strong>, Shu Yang*, Jianhua Xu, Lijie Hu, Mengdi Li, Di Wang</div>
     <div class="venue">In The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025) Findings</div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2504.14218" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
+      <a href="https://arxiv.org/pdf/2504.14218" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       <a href="https://github.com/kaustpradalab/repeat-curse-llm" class="btn-accent"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
@@ -125,7 +144,7 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
     <div class="authors">Shu Yang*, Shenzhe Zhu*, Zeyu Wu, Keyu Wang, <strong><u>Junchi Yao</u></strong>, Junchao Wu, Lijie Hu, Mengdi Li, Derek F. Wong, Di Wang</div>
     <div class="venue">In The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025) Findings</div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2502.12904" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
+      <a href="https://arxiv.org/pdf/2502.12904" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       <a href="https://github.com/kaustpradalab/Fraud-R1?utm_source=catalyzex.com" class="btn-accent"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
@@ -149,14 +168,19 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
 
 # <i class="fas fa-graduation-cap"></i> Educations
 - *2025.11 - 2026.05*: &nbsp;Visiting Student of Machine Learning Department, <span class="primary-gradient-text">MBZUAI</span>.
-- *2022.09 - 2026.06*: &nbsp;Bachelor of Engineer in Information System and Information Management, <span class="primary-gradient-text">UESTC</span>.
 - *2023.11 - 2024.04*: &nbsp;<a href="https://yfel.ku.ac.ae/yfel/" class="link-accent">Young Future Energy Leader Programme Student</a>, <span class="primary-gradient-text">Khalifa University</span>.
+- *2022.09 - 2026.06*: &nbsp;Bachelor of Engineer in Information System and Information Management, <span class="primary-gradient-text">UESTC</span>.
 
 # <i class="fas fa-laptop-code"></i> Internships
 - *2025.03 - Present*: &nbsp;Research Intern, <a href="https://www.shlab.org.cn/" class="link-accent">AI4Science</a>, **Shanghai AI Lab**.
 - *2024.07 - 2025.03*: &nbsp;LLM Agent Engineer, <a href="https://mountainguests.com" class="link-accent">Product Design and R&D Department</a>, **GoAfarAI (Startup)**.
 - *2024.06 - 2025.06*: &nbsp;Research Intern, <a href="https://pradalab1.github.io/" class="link-accent">Provable Responsible Al and Data Analytics Lab</a>, **KAUST**.
 - *2024.04 - 2025.02*: &nbsp;Research Intern, <a href="https://cs.sicnu.edu.cn/" class="link-accent">School of Computer Science</a>, **Sichuan Normal University**.
+
+# <i class="fas fa-handshake"></i> Service
+
+**Reviewer**
+- *2025*: ICML, ICLR
 
 <div style="max-width:360px;margin:1rem auto;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=1GHtVJEQ58QnRGGKH0sDvp_o5S9D1EqPlsNWLccts9M&cl=ffffff&w=a"></script>

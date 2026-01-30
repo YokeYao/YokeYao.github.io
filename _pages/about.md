@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Junchi Yao</span> (pronounced "JOON-chee YOW"). I am doing my senior (final) year in Information System and Information Management from <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)**. Currently, I'm a visiting student in the Machine Learning Department at <i class="fas fa-university"></i> **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**, supervised by Prof. <a href="https://lijie-hu.github.io/" class="link-accent"> Lijie Hu</a>. Also, I am a research intern at <i class="fas fa-university"></i> **Shanghai AI Lab**, where I have the privilege of working with Researcher <a href="https://openreview.net/profile?id=~Peng_Ye4" class="link-accent">Peng Ye</a>.
+My name is <span class="accent-text">Junchi Yao</span> (pronounced "JOON-chee YOW"). I am currently in my final year of my undergraduate program in Information System and Information Management from <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)**. Currently, I'm a visiting student in the Machine Learning Department at <i class="fas fa-university"></i> **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**, supervised by Prof. <a href="https://lijie-hu.github.io/" class="link-accent"> Lijie Hu</a>. I was a research intern at <i class="fas fa-university"></i> **Shanghai AI Lab**, where I have the privilege of working with Researcher <a href="https://openreview.net/profile?id=~Peng_Ye4" class="link-accent">Peng Ye</a>.
 Before that, I gained valuable research experience as a research intern at <i class="fas fa-university"></i> **King Abdullah University of Science and Technology (KAUST)** under the guidance of Prof. <a href="https://shao3wangdi.github.io/" class="link-accent">Di Wang</a>.
 
 <div class="quote-accent">
@@ -59,6 +59,7 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
 </div>
 
 # <i class="fas fa-fire"></i> News
+- *2026.01*: &nbsp;🎉 1 Paper is accepted by The Fourteenth International Conference on Learning Representations (ICLR 2026).
 - *2025.11*: &nbsp;⭐ **P1 Technical Report** is published on Hugging Face/Arxiv, ranked **#2 in Daily Papers**, and was featured by [QbitAI (量子位)](https://mp.weixin.qq.com/s/VS6cI7EhZRQwZRqMeqTgSg?from=groupmessage&scene=1&subscene=10000&sessionid=1763976328&clicktime=1764002549&enterid=1764002549&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=8011457-en_US-zip&fasttmpl_flag=0&realreporttime=1764002549791).
 - *2025.11*: &nbsp;✈️ I have joined <span class="primary-gradient-text">MBZUAI</span> as a Visiting Student, supervised by Lijie Hu, where I focus on XAI on (M)LLM/ALM/VLA.
 - *2025.09*: &nbsp;🎉 1 Paper is accepted by The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025). <span class="accent-text">See you in San Diago, America!</span>
@@ -68,6 +69,22 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
 - *2025.03*: &nbsp;✈️ I have joined <span class="primary-gradient-text">Shanghai AI Lab</span> as a Research Intern under the guidance of Researcher Peng Ye, where I focus on LLM Agents and LLM for Physics.
 
 # <i class="fas fa-file-alt"></i> Publications 
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">ICLR 2026</div>
+    <img src='images/sciverifier.png' alt="Pipeline of SCI-Verify" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>SCI-VERIFIER: SCIENTIFIC VERIFIER WITH THINKING</h3>
+    <div class="authors">Shenghe Zheng*, Chenyu Huang*, Fangchen Yu, <strong><u>Junchi Yao</u></strong>, Jingqi Ye, Tao Chen, Ning Ding, Lei Bai, Ganqu Cui, Peng Ye</div>
+    <div class="venue">ICLR 2026</div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2509.24285" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/Zhengsh123/SCI-Verifier" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    </div>
+  </div>
+</div>
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
@@ -172,7 +189,7 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
 - *2022.09 - 2026.06*: &nbsp;Bachelor of Engineer in Information System and Information Management, <span class="primary-gradient-text">UESTC</span>.
 
 # <i class="fas fa-laptop-code"></i> Internships
-- *2025.03 - Present*: &nbsp;Research Intern, <a href="https://www.shlab.org.cn/" class="link-accent">AI4Science</a>, **Shanghai AI Lab**.
+- *2025.03 - 2025.12*: &nbsp;Research Intern, <a href="https://www.shlab.org.cn/" class="link-accent">AI4Science</a>, **Shanghai AI Lab**.
 - *2024.07 - 2025.03*: &nbsp;LLM Agent Engineer, <a href="https://mountainguests.com" class="link-accent">Product Design and R&D Department</a>, **GoAfarAI (Startup)**.
 - *2024.06 - 2025.06*: &nbsp;Research Intern, <a href="https://pradalab1.github.io/" class="link-accent">Provable Responsible Al and Data Analytics Lab</a>, **KAUST**.
 - *2024.04 - 2025.02*: &nbsp;Research Intern, <a href="https://cs.sicnu.edu.cn/" class="link-accent">School of Computer Science</a>, **Sichuan Normal University**.

@@ -53,13 +53,14 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
     <h3><i class="fas fa-globe-asia"></i> World Explorer</h3>
     <ul>
       <li>Visited <span class="accent-text">12 countries</span> worldwide</li>
-      <li>Traveled to <span class="accent-text">31 provinces and territories</span> in China</li>
+      <li>Traveled to <span class="accent-text">32 provinces and territories</span> in China</li>
       <li>Rich experience in <span class="primary-gradient-text">driving and hiking</span></li>
     </ul>
   </div>
 </div>
 
 # <i class="fas fa-fire"></i> News
+- *2026.05*: &nbsp;🎉 1 Paper is accepted by The Forty-Third International Conference on Machine Learning (ICML 2026).
 - *2026.02*: &nbsp;🎉 1 Paper is accepted by The Thirty-Ninth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026).
 - *2026.01*: &nbsp;🎉 1 Paper is accepted by The Fourteenth International Conference on Learning Representations (ICLR 2026).
 - *2025.11*: &nbsp;⭐ **P1 Technical Report** is published on Hugging Face/Arxiv, ranked **#2 in Daily Papers**, and was featured by [QbitAI (量子位)](https://mp.weixin.qq.com/s/VS6cI7EhZRQwZRqMeqTgSg?from=groupmessage&scene=1&subscene=10000&sessionid=1763976328&clicktime=1764002549&enterid=1764002549&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=8011457-en_US-zip&fasttmpl_flag=0&realreporttime=1764002549791).

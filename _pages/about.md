@@ -60,6 +60,7 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
 </div>
 
 # <i class="fas fa-fire"></i> News
+- *2026.08*: &nbsp;🎉 1 Paper is accepted by The Thirty-First Empirical Methods in Natural Language Processing (EMNLP 2026) Main Conference.
 - *2026.05*: &nbsp;🎉 1 Paper is accepted by The Forty-Third International Conference on Machine Learning (ICML 2026).
 - *2026.02*: &nbsp;🎉 1 Paper is accepted by The Thirty-Ninth IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026).
 - *2026.01*: &nbsp;🎉 1 Paper is accepted by The Fourteenth International Conference on Learning Representations (ICLR 2026).

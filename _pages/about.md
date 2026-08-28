@@ -19,11 +19,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Junchi Yao</span> (pronounced "JOON-chee YOW"). I recently graduated with a Bachelor of Engineering in Information System and Information Management from the <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)**. Starting in Fall 2026, I will join the PhD program in Machine Learning at <i class="fas fa-university"></i> **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**, supervised by Prof. <a href="https://lijie-hu.github.io/" class="link-accent"> Lijie Hu</a>. I was a research intern at <i class="fas fa-university"></i> **Shanghai AI Lab**, where I have the privilege of working with Researcher <a href="https://openreview.net/profile?id=~Peng_Ye4" class="link-accent">Peng Ye</a>.
-Before that, I gained valuable research experience as a research intern at <i class="fas fa-university"></i> **King Abdullah University of Science and Technology (KAUST)** under the guidance of Prof. <a href="https://shao3wangdi.github.io/" class="link-accent">Di Wang</a>.
+My name is <span class="accent-text">Junchi Yao</span> (pronounced "JOON-chee YOW"). I am a 1-year PhD student in Machine Learning at <i class="fas fa-university"></i> **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**, supervised by Prof. <a href="https://lijie-hu.github.io/" class="link-accent">Lijie Hu</a>. I was a research intern at <i class="fas fa-university"></i> **Shanghai AI Lab**, where I had the privilege of working with Researcher <a href="https://openreview.net/profile?id=~Peng_Ye4" class="link-accent">Peng Ye</a>. Before that, I gained valuable research experience as a research intern at <i class="fas fa-university"></i> **King Abdullah University of Science and Technology (KAUST)** under the guidance of Prof. <a href="https://shao3wangdi.github.io/" class="link-accent">Di Wang</a>. I received my Bachelor of Engineering in Information System and Information Management from the <i class="fas fa-university"></i> **University of Electronic Science and Technology of China (UESTC)**.
 
 <div class="quote-accent">
-My research focuses on <span class="primary-gradient-text">Large Language Models</span>, particularly in explainability (XAI), LLM agents, and LLM4Science, including social science and physics. Moreover, I have recently begun learning about World Model and Vision-Language-Action (VLA) models. My goal is to advance robotics and LLM research toward interpretable, robust, and impactful real-world applications.
+My research focuses on <span class="primary-gradient-text">Large Language Models</span>, particularly in explainability (XAI), LLM agents, and LLM4Science, including social science and physics. Moreover, I have recently begun learning about World Model models. My goal is to advance robotics and LLM research toward interpretable, robust, and impactful real-world applications.
 </div>
 
 **I am actively seeking research collaborators, whether you are new or experienced.**. Feel free to reach out.
@@ -34,7 +33,7 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
     <h3><i class="fas fa-microscope"></i> AI Researcher</h3>
     <ul>
       <li>Research focus on <span class="accent-text">LLMs and Robotics</span></li>
-      <li>Visit at <span class="primary-gradient-text">MBZUAI</span></li>
+      <li>PhD student at <span class="primary-gradient-text">MBZUAI</span></li>
       <li>Intern at <span class="primary-gradient-text">Shanghai AI Lab</span></li>
       <li>Publications in <span class="accent-text">ACL, NeurIPS</span></li>
     </ul>
@@ -52,7 +51,7 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-globe-asia"></i> World Explorer</h3>
     <ul>
-      <li>Visited <span class="accent-text">12 countries</span> worldwide</li>
+      <li>Visited <span class="accent-text">14 countries</span> worldwide</li>
       <li>Traveled to <span class="accent-text">32 provinces and territories</span> in China</li>
       <li>Rich experience in <span class="primary-gradient-text">driving and hiking</span></li>
     </ul>
@@ -73,6 +72,22 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
 - *2025.03*: &nbsp;✈️ I have joined <span class="primary-gradient-text">Shanghai AI Lab</span> as a Research Intern under the guidance of Researcher Peng Ye, where I focus on LLM Agents and LLM for Physics.
 
 # <i class="fas fa-file-alt"></i> Publications 
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">CVPR 2026</div>
+    <img src="{{ '/images/CVPR2026.png' | relative_url }}" alt="Overview of RMLLMs" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>TOWARDS REASONING-PRESERVING UNLEARNING IN MULTIMODAL LARGE LANGUAGE MODELS</h3>
+    <div class="authors">Hongji Li, <strong><u>Junchi Yao</u></strong>, Manjiang Yu, Priyanka Singh, Xue Li, Di Wang†, Lijie Hu†</div>
+    <div class="venue">CVPR 2026</div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2512.17911" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <!-- <a href="#" class="btn-accent"><i class="fab fa-github"></i> Code</a> -->
+    </div>
+  </div>
+</div>
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
@@ -134,7 +149,7 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
     <div class="venue">The 42nd International Conference on Machine Learning（ICML 2025）Multi-Agent System Workshop</div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2505.16557" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="#" class="btn-accent"><i class="fab fa-github"></i> Code (Incoming)</a>
+      <!-- <a href="#" class="btn-accent"><i class="fab fa-github"></i> Code (Incoming)</a> -->
     </div>
   </div>
 </div>
@@ -188,6 +203,7 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
 </div>
 
 # <i class="fas fa-graduation-cap"></i> Educations
+- *2026 - Present*: &nbsp;PhD Student in Machine Learning, <span class="primary-gradient-text">MBZUAI</span>.
 - *2025.11 - 2026.05*: &nbsp;Visiting Student of Machine Learning Department, <span class="primary-gradient-text">MBZUAI</span>.
 - *2023.11 - 2024.04*: &nbsp;<a href="https://yfel.ku.ac.ae/yfel/" class="link-accent">Young Future Energy Leader Programme Student</a>, <span class="primary-gradient-text">Khalifa University</span>.
 - *2022.09 - 2026.06*: &nbsp;Bachelor of Engineer in Information System and Information Management, <span class="primary-gradient-text">UESTC</span>.
@@ -202,7 +218,7 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
 
 **Reviewer**
 - *2025*: ICML, ICLR
-- *2026*: ICML，Neurocomputing, DMLR, ACM TIST
+- *2026*: ICML，Neurocomputing, DMLR, ACM TIST, NeurIPS, ARR May, AAAI
 
 <div style="max-width:360px;margin:1rem auto;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=1GHtVJEQ58QnRGGKH0sDvp_o5S9D1EqPlsNWLccts9M&cl=ffffff&w=a"></script>

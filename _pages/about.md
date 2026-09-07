@@ -80,7 +80,7 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
   </div>
   <div class='paper-box-text'>
     <h3>Beyond State Consistency: Behavior Consistency in Text-Based World Models</h3>
-    <div class="authors">Youling Huang, Guanqiao Chen, Junchi Yao, Lu Wang, Fangkai Yang, Chao Du, Chenzhuo Zhao, Pu Zhao, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang</div>
+    <div class="authors">Youling Huang, Guanqiao Chen, <strong><u>Junchi Yao</u></strong>, Lu Wang, Fangkai Yang, Chao Du, Chenzhuo Zhao, Pu Zhao, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang</div>
     <div class="venue">EMNLP 2026</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2604.13824" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>

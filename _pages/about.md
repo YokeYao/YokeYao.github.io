@@ -75,6 +75,22 @@ My research focuses on <span class="primary-gradient-text">Large Language Models
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
+    <div class="badge pulse-accent">EMNLP 2026</div>
+    <img src="{{ '/images/EMNLP2026.png' | relative_url }}" alt="Overview of Webshop" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Beyond State Consistency: Behavior Consistency in Text-Based World Models</h3>
+    <div class="authors">Youling Huang, Guanqiao Chen, Junchi Yao, Lu Wang, Fangkai Yang, Chao Du, Chenzhuo Zhao, Pu Zhao, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang</div>
+    <div class="venue">EMNLP 2026</div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2604.13824" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <!-- <a href="#" class="btn-accent"><i class="fab fa-github"></i> Code</a> -->
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
     <div class="badge pulse-accent">CVPR 2026</div>
     <img src="{{ '/images/CVPR2026.png' | relative_url }}" alt="Overview of RMLLMs" width="100%">
   </div>
